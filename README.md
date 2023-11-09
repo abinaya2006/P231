@@ -4,7 +4,7 @@ Q1: FETCH ALL THE CUSTOMERS
 
 A1: select * from customers;
 
-P1:![image](https://github.com/abinaya2006/P231/assets/72507845/71b151f7-dd20-4e5c-8d23-a03013058a9f)
+ P1:![image](https://github.com/abinaya2006/P231/assets/72507845/71b151f7-dd20-4e5c-8d23-a03013058a9f)
 
 
 Q2:FETCH ALL THE SUPPLIERS
